@@ -1,2 +1,2 @@
 #!/bin/bash
-cp ./index.html /var/www/html
+sudo cp ./index.html /var/www/html
